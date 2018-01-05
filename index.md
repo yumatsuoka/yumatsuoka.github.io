@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Yuma Matsuoka ($B>>2,(B $BM$Ka(B)
 
-You can use the [editor on GitHub](https://github.com/yumatsuoka/yumatsuoka.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Education
+Faculty of Science and Engineering, Hosei University, Tokyo(April, 2012-March, 2017)  
+Graduate School of Science and Engineering, Hosei University, Tokyo(April, 2017-March, 2019)  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Qualifications
+- 1 years' research experience in CCVL team as Visiting Graduate Scholar in Department of Computer Science at Johns Hopkins University, Baltimore(September, 2017-Augst, 2018)  
 
-### Markdown
+## Experience
+SoftBank Group Corp., Tokyo (February-March, 2017)  
+http://www.softbank.jp/en/corp/  
+Research Intern  
+- Implement Deep Learning methods with GPU clusters  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+DATUM STUDIO Co. Ltd., Tokyo (January-March, 2016)  
+https://datumstudio.jp/ (Japanese only)  
+Data scientist Intern  
+- Dveloped web crawler  
+- Analyzed tendency of paying user from game app. comperny's logs stored on AWS.  
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yumatsuoka/yumatsuoka.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
