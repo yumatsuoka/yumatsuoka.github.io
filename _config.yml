@@ -1,1 +1,24 @@
-theme: jekyll-theme-cayman
+# Site Settings
+locale                  : "ja-JP" 
+title                   : "Yuma Matsuoka(松岡 佑磨)"  
+name                    : "Yuma Matsuoka"  
+
+
+# Site Author
+author:
+    name                : "Yuma Matsuoka(松岡佑磨)"
+    avatar              : "profile_img.jpg"
+    bio                 : "A graduate student in Hosei university and Johns Hopkins University."
+    email               : "a.iebako.yuma(at)gmail.com"
+
+
+social:
+    links:
+        - "https://github.com/yumatsuoka"
+        - "https://www.wantedly.com/users/1884615"
+        - "https://www.slideshare.net/YumaMatsuoka"
+
+
+# Build settings 
+theme                   : "minimal-mistakes-jekyll"
+minimal_mistakes_skin   : "default"

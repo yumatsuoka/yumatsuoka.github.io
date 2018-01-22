@@ -10,6 +10,7 @@ Master in Graduate School of Science and Engineering, Hosei University, Tokyo(Ap
 Visiting Graduate Scholar in Department of Computer Science, Johns Hopkins University, Baltimore(September, 2017-Augst, 2018)  
 
 
+
 ## Qualifications
 
 
@@ -25,13 +26,12 @@ Visiting Graduate Scholar in Department of Computer Science, Johns Hopkins Unive
 ## Experience
 
 
-SoftBank Group Corp., Tokyo (February-March, 2017)  
-http://www.softbank.jp/en/corp/  
+
+[SoftBank Group Corp.](http://www.softbank.jp/en/corp/), Tokyo (February-March, 2017)  
 Research Intern  
 - Implement Deep Learning methods with GPU clusters  
 
-DATUM STUDIO Co. Ltd., Tokyo (January-March, 2016)  
-https://datumstudio.jp/ (Japanese only)  
+[DATUM STUDIO Co. Ltd.,](https://datumstudio.jp/) (Japanese only), Tokyo (January-March, 2016)   
 Data scientist Intern  
 - Dveloped web crawler  
 - Analyzed tendency of paying user from game app. comperny's logs stored on AWS.  
@@ -44,4 +44,4 @@ Data scientist Intern
 [Wantedly](https://www.wantedly.com/users/1884615)  
 [WBA_Wakate](https://wbawakate.jp/member/matsuoka-yuma/)  
 [SlideShare](https://www.slideshare.net/YumaMatsuoka)  
-
+[Iyatomi_Lab](http://iyatomi-lab.info/member/yuma_matsuoka)  
