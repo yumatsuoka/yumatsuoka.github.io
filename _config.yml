@@ -1,13 +1,12 @@
-theme                   : "minimal-mistakes-jekyll"
-minimal_mistakes_skin   : "default"
+theme                   : "jekyll-theme-minimal"
 
 locale                  : "ja-JP" 
-title                   : "Yuma Matsuoka($B>>2,(B $BM$Ka(B)"  
+title                   : "Yuma Matsuoka(松岡 佑磨)"  
 name                    : "Yuma Matsuoka"  
 
 
 author:
-    name                : "Yuma Matsuoka($B>>2,M$Ka(B)"
+    name                : "Yuma Matsuoka(松岡佑磨)"
     avatar              : "profile_img.jpg"
     bio                 : "A graduate student in Hosei university and Johns Hopkins University."
     email               : "a.iebako.yuma(at)gmail.com"
