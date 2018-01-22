@@ -1,21 +1,4 @@
+title                   : "Yuma Matsuoka"  
+description             : "I'm a graduate student in Hosei Univeristy and Johns Hopkins Univeristy.  **Email**  a.iebako.yuma(at)gmail.com  "
+google_analytics        : "UA-112843722-1"
 theme                   : "jekyll-theme-minimal"
-
-locale                  : "ja-JP" 
-title                   : "Yuma Matsuoka(松岡 佑磨)"  
-name                    : "Yuma Matsuoka"  
-
-
-author:
-    name                : "Yuma Matsuoka(松岡佑磨)"
-    avatar              : "profile_img.jpg"
-    bio                 : "A graduate student in Hosei university and Johns Hopkins University."
-    email               : "a.iebako.yuma(at)gmail.com"
-
-
-social:
-    links:
-        - "https://github.com/yumatsuoka"
-        - "https://www.wantedly.com/users/1884615"
-        - "https://www.slideshare.net/YumaMatsuoka"
-
-
