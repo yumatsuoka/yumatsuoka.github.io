@@ -1,10 +1,11 @@
-# Site Settings
+theme                   : "minimal-mistakes-jekyll"
+minimal_mistakes_skin   : "default"
+
 locale                  : "ja-JP" 
 title                   : "Yuma Matsuoka(松岡 佑磨)"  
 name                    : "Yuma Matsuoka"  
 
 
-# Site Author
 author:
     name                : "Yuma Matsuoka(松岡佑磨)"
     avatar              : "profile_img.jpg"
@@ -19,6 +20,3 @@ social:
         - "https://www.slideshare.net/YumaMatsuoka"
 
 
-# Build settings 
-theme                   : "minimal-mistakes-jekyll"
-minimal_mistakes_skin   : "default"
