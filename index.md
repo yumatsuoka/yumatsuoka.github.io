@@ -1,6 +1,6 @@
 # Yuma Matsuoka (松岡 佑磨)
 
-![yuma_pic](./profile_img.jpg)
+<img src="profile_img.jpg" width="320px">
 
 ## Education
 
